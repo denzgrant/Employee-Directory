@@ -1,13 +1,16 @@
 import React from 'react';
 import Header from "./components/header"
-import Buttons from "./components/buttons"
+import Title from "./components/title"
+import Table from "./components/table"
+
 
 
 function App() {
   return (
     <>
       <Header />
-      <Buttons />
+      <Title />
+      <Table />
     </>
   );
 }
