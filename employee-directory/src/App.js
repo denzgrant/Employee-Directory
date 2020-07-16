@@ -1,7 +1,12 @@
 import React from 'react';
-import Header from "./components/header"
-import Title from "./components/title"
-import Table from "./components/table"
+import Header from "./components/header";
+import Title from "./components/title";
+import MaterialEmployTable from "./components/table"
+import employees from "./employees.json";
+
+
+
+
 
 
 
@@ -10,9 +15,14 @@ function App() {
     <>
       <Header />
       <Title />
-      <Table />
+      <MaterialEmployTable
+      name={employees[0].name}
+      alias={employees[0].alias}
+      squad={employees[0].occupation}
+      />
     </>
   );
 }
+
 
 export default App;

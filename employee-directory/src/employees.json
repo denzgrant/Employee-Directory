@@ -2,100 +2,86 @@
   {
     "id": 1,
     "name": "Cyclops",
-    "real-name": "Scott Summers",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "squad": "Blue", 
-    "email": ""
+    "alias": "Scott Summers",
+    "squad": "Blue",
+    "email": "ssummers@xmen.org"
   },
   {
     "id": 2,
     "name": "Beast",
-    "real-name": "Henry (Hank) McCoy",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Henry (Hank) McCoy",
     "squad": "Blue"
   },
   {
     "id": 3,
     "name": "Wolverine",
-    "real-name": "James Howlett",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "James Howlett",
     "squad": "Blue"
   },
   {
     "id": 4,
     "name": "Psylocke",
-    "real-name": "Elizabeth (Betsy) Braddock",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Elizabeth (Betsy) Braddock",
     "squad": "Blue"
   },
   {
     "id": 5,
     "name": "Rogue",
-    "real-name": "Anna Marie",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Anna Marie",
     "squad": "Blue"
   },
   {
     "id": 6,
     "name": "Gambit",
-    "real-name": "Remy LeBeau",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Remy LeBeau",
     "squad": "Blue"
   },
   {
     "id": 7,
     "name": "Jubilee",
-    "real-name": "Jubilation Lee",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Jubilation Lee",
     "squad": "Blue"
   },
   {
     "id": 8,
     "name": "Storm",
-    "real-name": "Ororo Munroe",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Ororo Munroe",
     "squad": "Gold"
   },
   {
     "id": 9,
     "name": "Jean Grey",
-    "real-name": "Jean Elaine Grey",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Jean Elaine Grey",
     "squad": "Gold"
   },
   {
     "id": 10,
     "name": "Archangel",
-    "real-name": "Warren Worthington III",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Warren Worthington III",
     "squad": "Gold"
   },
   {
     "id": 11,
     "name": "Iceman",
-    "real-name": "Bobby Drake",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Bobby Drake",
     "squad": "Gold"
   },
   {
     "id": 12,
     "name": "Colossus",
-    "real-name": "Piotr Rasputin",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Piotr Rasputin",
     "squad": "Gold"
   },
   {
     "id": 13,
     "name": "Forge",
-    "real-name": "Unknown",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Unknown",
     "squad": "Gold"
   },
   {
     "id": 14,
     "name": "Bishop",
-    "real-name": "Lucas Bishop",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "alias": "Lucas Bishop",
     "squad": "Gold"
   }
 ]

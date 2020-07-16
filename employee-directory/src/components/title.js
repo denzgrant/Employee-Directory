@@ -8,10 +8,10 @@ border-radius: 3px;
 border: none; 
 color: Red; 
 align-items: center;
-width: 1000px; 
+width: 100%; 
 margin:0 auto;
 margin-top: .5em;
-margin-right: 5em; 
+margin-left: 12em; 
 font-size: 4em; 
 `
 
