@@ -1,28 +1,30 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Header from "./components/header";
-import Title from "./components/title";
 import MaterialEmployTable from "./components/table"
 import employees from "./employees.json";
 
 
 
+class App extends Component {
+  state = {
+    employees
+  };
 
-
-
-
-function App() {
-  return (
-    <>
-      <Header />
-      <Title />
-      <MaterialEmployTable
-      name={employees[0].name}
-      alias={employees[0].alias}
-      squad={employees[0].occupation}
-      />
-    </>
-  );
+  
+  render() {
+    return (
+      <>
+        <Header />
+        <MaterialEmployTable
+          id={employees[0].id}
+          name={employees[0].name}
+          alias={employees[0].alias}
+          squad={employees[0].squad}
+          email={employees[0].email}
+        />
+      </>
+    );
+  }
 }
-
 
 export default App;

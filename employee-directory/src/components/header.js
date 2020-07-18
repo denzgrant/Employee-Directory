@@ -1,23 +1,16 @@
 import React from "react";
-import styled from 'styled-components';
+import { Jumbotron, Container } from 'react-bootstrap';
+import './header.css';
 
 
-const Heading = styled.header`
-  font-size: 9rem;
-  border: 5px solid black;
-  padding: 2em;
-  background: yellow;
-  margin: 0; 
-  background-image: url(${'/xmen_logo.png'});
-  background-repeat: no-repeat;
-  background-position: center;
-
-`
 
 const Header = () => {
   return (
-
-    <Heading imgUrl={process.env.PUBLIC_URL + 'xmen_logo.png'}></Heading>
+    <Jumbotron fluid>
+      <Container>
+        <h1 class="title">Professor X's Blue & Gold Team</h1>
+      </Container>
+    </Jumbotron>
 
   );
 }

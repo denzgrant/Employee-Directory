@@ -1,0 +1,9 @@
+.jumbotron {
+  border: 5px solid black;
+  padding: 2em;
+  background: yellow;
+  margin: 0 auto;
+  color: red;
+  font-size: large;
+  text-align: 'center'
+}

@@ -10,78 +10,91 @@
     "id": 2,
     "name": "Beast",
     "alias": "Henry (Hank) McCoy",
-    "squad": "Blue"
+    "squad": "Blue",
+    "email": "hmccoy@xmen.org"
   },
   {
     "id": 3,
     "name": "Wolverine",
     "alias": "James Howlett",
-    "squad": "Blue"
+    "squad": "Blue",
+    "email": "donttryitbub@xmen.org"
   },
   {
     "id": 4,
     "name": "Psylocke",
     "alias": "Elizabeth (Betsy) Braddock",
-    "squad": "Blue"
+    "squad": "Blue",
+    "email": "ebraddock@xmen.org"
   },
   {
     "id": 5,
     "name": "Rogue",
     "alias": "Anna Marie",
-    "squad": "Blue"
+    "squad": "Blue",
+    "email": "jhowlett@xmen.org"
   },
   {
     "id": 6,
     "name": "Gambit",
     "alias": "Remy LeBeau",
-    "squad": "Blue"
+    "squad": "Blue",
+    "email": "rlebeau@xmen.org"
   },
   {
     "id": 7,
     "name": "Jubilee",
     "alias": "Jubilation Lee",
-    "squad": "Blue"
+    "squad": "Blue",
+    "email": "jlee@xmen.org"
   },
   {
     "id": 8,
     "name": "Storm",
     "alias": "Ororo Munroe",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "omunroe@xmen.org"
   },
   {
     "id": 9,
     "name": "Jean Grey",
     "alias": "Jean Elaine Grey",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "jgrey@xmen.org"
   },
   {
     "id": 10,
     "name": "Archangel",
     "alias": "Warren Worthington III",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "wworthington@xmen.org"
   },
   {
     "id": 11,
     "name": "Iceman",
     "alias": "Bobby Drake",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "brake@xmen.org"
   },
   {
     "id": 12,
     "name": "Colossus",
     "alias": "Piotr Rasputin",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "prasputin@xmen.org"
   },
   {
     "id": 13,
     "name": "Forge",
     "alias": "Unknown",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "funknown@xmen.org"
   },
   {
     "id": 14,
     "name": "Bishop",
     "alias": "Lucas Bishop",
-    "squad": "Gold"
+    "squad": "Gold",
+    "email": "lbishop@xmen.org"
   }
 ]
