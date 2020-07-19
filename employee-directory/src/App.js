@@ -16,11 +16,6 @@ class App extends Component {
       <>
         <Header />
         <MaterialEmployTable
-          id={employees[0].id}
-          name={employees[0].name}
-          alias={employees[0].alias}
-          squad={employees[0].squad}
-          email={employees[0].email}
         />
       </>
     );

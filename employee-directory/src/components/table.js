@@ -2,9 +2,8 @@ import React from 'react';
 import MaterialTable from 'material-table';
 
 
+const MaterialEmployTable = () => {
 
-
-const MaterialEmployTable = (props) => {
   const data = [
     {
       "id": 1,
@@ -107,19 +106,45 @@ const MaterialEmployTable = (props) => {
   ]
   const columns = [
     {
-      title: 'ID', field: 'id'
+      title: 'ID', field: 'id',
+      headerStyle: {
+        backgroundColor: 'red',
+        fontSize: 20,
+        fontColor: 'Red'
+      }
+
     },
     {
-      title: 'Name', field: 'name'
+      title: 'Name', field: 'name',
+      headerStyle: {
+        backgroundColor: 'red',
+        fontSize: 20,
+        fontColor: 'Red'
+      }
     },
     {
-      title: 'Alias', field: 'alias'
+      title: 'Alias', field: 'alias',
+      headerStyle: {
+        backgroundColor: 'red',
+        fontSize: 20,
+        fontColor: 'Red'
+      }
     },
     {
-      title: 'Squad', field: 'squad'
+      title: 'Squad', field: 'squad',
+      headerStyle: {
+        backgroundColor: 'red',
+        fontSize: 20,
+        fontColor: 'Red'
+      }
     },
     {
-      title: 'Email', field: 'email'
+      title: 'Email', field: 'email',
+      headerStyle: {
+        backgroundColor: 'red',
+        fontSize: 20,
+        fontColor: 'Red'
+      }
     }
   ]
   return (
@@ -130,15 +155,15 @@ const MaterialEmployTable = (props) => {
     }}
     >
       <MaterialTable style={{
-        color: 'Blue',
+        color: 'Black',
         backgroundColor: 'yellow'
 
-    }} 
+      }}
+        title="The Uncanny X-Men '91"
         data={data}
         columns={columns}
         options={{
           paging: false,
-
         }}
 
       />
