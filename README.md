@@ -1,7 +1,6 @@
-# X-Men Employee-Directory
 
 <img src="https://img.shields.io/badge/Node-12.16.3-brightgreen"> <img src="https://img.shields.io/github/last-commit/denzgrant/Budget-Tracker-PWA">
-<h1>Budget-Tracker-PWA :chart_with_upwards_trend:</h1> 
+<h1>X-Men Employee-Directory</h1> 
 
 React.js application that utilizes Material-Table to display employees for the Gold and Blue team of the Uncanny X-men. The user is able to sort by Name, Alias, Team, Email, and is also able to search employee's information.  
 
