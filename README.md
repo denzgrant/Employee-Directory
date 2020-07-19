@@ -16,7 +16,7 @@ React.js application that utilizes Material-Table to display employees for the G
   <h2 id="Installation">Installation</h2>                         
   <p>
   <ol>
-<li>Clone this repository.<pre><code> git <span class="hljs-keyword">clone</span> <span class="hljs-title">https</span>:/https://github.com/denzgrant/Employee-Directory.git
+<li>Clone this repository.<pre><code> git <span class="hljs-keyword">clone</span> <span class="hljs-title">https</span>://github.com/denzgrant/Employee-Directory.git
 </code></pre></li>
 <li>Install Nodejs dependencies.<pre><code> npm <span class="hljs-keyword">install</span>
 </code></pre></li>
