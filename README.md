@@ -3,7 +3,7 @@
 
 React.js application that utilizes Material-Table to display employees for the Gold and Blue team of the Uncanny X-men. The user is able to sort by Name, Alias, Team, Email, and is also able to search employee's information.
 
-<img src="/demo.jpg" alt="screenshot">  
+<img src="employee-directory/demo.jpg" alt="screenshot">  
 
 
 ### Demo: https://denzgrant.github.io/Employee-Directory/
