@@ -1,7 +1,10 @@
 <img src="https://img.shields.io/github/last-commit/denzgrant/Budget-Tracker-PWA">
 <h1>X-Men Employee-Directory</h1> 
 
-React.js application that utilizes Material-Table to display employees for the Gold and Blue team of the Uncanny X-men. The user is able to sort by Name, Alias, Team, Email, and is also able to search employee's information.  
+React.js application that utilizes Material-Table to display employees for the Gold and Blue team of the Uncanny X-men. The user is able to sort by Name, Alias, Team, Email, and is also able to search employee's information.
+
+<img src="/demo.jpg" alt="screenshot of page">  
+
 
 ### Demo: https://denzgrant.github.io/Employee-Directory/
 </p>
